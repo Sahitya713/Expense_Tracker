@@ -8,9 +8,9 @@ The GUI can do the following:
 
 # Required installation
 
-pip install gspread oauth2client
-pip install tkcalendar
-pip install pandas
+1. pip install gspread oauth2client
+2. pip install tkcalendar
+3. pip install pandas
 
 # Synching with google sheets
 
